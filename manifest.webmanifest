@@ -1,0 +1,19 @@
+{
+  "name": "76–78 · Les Arcades des Champs-Élysées",
+  "short_name": "76–78 Arcades",
+  "description": "Portail documentaire indépendant de l'adresse 76–78 avenue des Champs-Élysées, Paris.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f6f0",
+  "theme_color": "#14222e",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
